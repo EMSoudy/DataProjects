@@ -1,3 +1,9 @@
+library(readr)
+library(readxl)
+library(dplyr)
+library(outliers)
+library(psych)
+
 PROTHROM<-
   read_csv("BHIS575/pro_S30.csv") 
 
