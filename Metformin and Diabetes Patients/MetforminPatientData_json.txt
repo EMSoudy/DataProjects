@@ -1,0 +1,239 @@
+ {
+        "PatientID": "Patient ID",
+        "FirstName": "First Name",
+        "LastName": "Last Name",
+        "BirthDate": "Birth Date",
+        "Sex": "Sex",
+        "Race": "Race",
+        "DmDxDate": "Dm Dx Date",
+        "ComorbidityI": "Comorbidity I",
+        "ComorbidityII": "Comorbidity II",
+        "InitialHbA1c": "Initial HbA1c",
+        "FPG": "FPG",
+        "FPGResultDate": "FPG Result Date",
+        "HbA1cAfter3Mths": "HbA1c After 3 Months",
+        "HbA1cAfter6Mths": "HbA1c After 6 Months",
+        "HCPDepartment": "HCP Department",
+        "HCPName": "HCP Name",
+        "HCPContactPhone": "HCO Contact Phone"
+}
+ 
+{
+  "PatientID": 44028,
+  "FirstName": "Melissa",
+  "LastName": "Jones",
+  "BirthDate": "10/18/1992",
+  "Sex": "F",
+  "Race": "Asian",
+  "DmDxDate": "03/15/2013",
+  "ComorbidityI": "CHD",
+  "ComorbidityII": "HTN",
+  "InitialHbA1c": 8.2,
+  "FPG": 181,
+  "FPGResultDate": "03/16/2013",
+  "HbA1cAfter3Mths": 5.1,
+  "HbA1cAfter6Mths": 4.9,
+  "HCPDepartment": "4 SW",
+  "HCPName": "Rodney Cortez",
+  "HCPContactPhone": "312-404-1894"
+ }
+
+ {
+  "PatientID": 54212,
+  "FirstName": "Jim",
+  "LastName": "Johnson",
+  "BirthDate": "03/29/1969",
+  "Sex": "M",
+  "Race": "White",
+  "DmDxDate": "04/15/2007",
+  "ComorbidityI": "CVD",
+  "ComorbidityII": "Dyslipidemia",
+  "InitialHbA1c": 9.1,
+  "FPG": 197,
+  "FPGResultDate": "04/16/2007",
+  "HbA1cAfter3Mths": 7.2,
+  "HbA1cAfter6Mths": 6.8,
+  "HCPDepartment": "3 NE",
+  "HCPName": "Michael Worthington",
+  "HCPContactPhone": "773-269-4953"
+ }
+
+ {
+  "PatientID": 96766,
+  "FirstName": "Johnny",
+  "LastName": "Appleseed",
+  "BirthDate": "06/19/1975",
+  "Sex": "M",
+  "Race": "White",
+  "DmDxDate": "01/20/2009",
+  "ComorbidityI": "AKI",
+  "ComorbidityII": "HTN",
+  "InitialHbA1c": 9.2,
+  "FPG": 198,
+  "FPGResultDate": "01/21/2009",
+  "HbA1cAfter3Mths": 8.3,
+  "HbA1cAfter6Mths": 7.7,
+  "HCPDepartment": "4 SW",
+  "HCPName": "Rodney Cortez",
+  "HCPContactPhone": "312-404-1894"
+ }
+
+ {
+  "PatientID": 37160,
+  "FirstName": "Jane",
+  "LastName": "Doe",
+  "BirthDate": "02/28/1968",
+  "Sex": "F",
+  "Race": "Black",
+  "DmDxDate": "11/02/2005",
+  "ComorbidityI": "Obesity",
+  "ComorbidityII": "COPD",
+  "InitialHbA1c": 8.6,
+  "FPG": 189,
+  "FPGResultDate": "11/03/2009",
+  "HbA1cAfter3Mths": 8.2,
+  "HbA1cAfter6Mths": 7.6,
+  "HCPDepartment": "2 NE",
+  "HCPName": "Rebecca Reese",
+  "HCPContactPhone": "312-5691024"
+ }
+ 
+{
+  "PatientID": 52302,
+  "FirstName": "Riley",
+  "LastName": "McAdams",
+  "BirthDate": "12/18/1959",
+  "Sex": "F",
+  "Race": "Hispanic",
+  "DmDxDate": "04/11/2011",
+  "ComorbidityI": "HLD",
+  "ComorbidityII": "Arthritis",
+  "InitialHbA1c": 7.5,
+  "FPG": 166,
+  "FPGResultDate": "04/13/2011",
+  "HbA1cAfter3Mths": 6.5,
+  "HbA1cAfter6Mths": 6.2,
+  "HCPDepartment": "3 NE",
+  "HCPName": "Michael Worthington",
+  "HCPContactPhone": "773-269-4953"
+ }
+
+ {
+  "PatientID": 34177,
+  "FirstName": "Ben",
+  "LastName": "Gartner",
+  "BirthDate": "02/15/1975",
+  "Sex": "M",
+  "Race": "Black",
+  "DmDxDate": "09/15/2014",
+  "ComorbidityI": "Bronchitis",
+  "ComorbidityII": "HTN",
+  "InitialHbA1c": 7.4,
+  "FPG": 164,
+  "FPGResultDate": "09/16/2014",
+  "HbA1cAfter3Mths": 6.4,
+  "HbA1cAfter6Mths": 5.9,
+  "HCPDepartment": "2 NE",
+  "HCPName": "Rebecca Reese",
+  "HCPContactPhone": "312-569-1024"
+ }
+
+ {
+  "PatientID": 51773,
+  "FirstName": "Aaron",
+  "LastName": "Neill",
+  "BirthDate": "05/17/1981",
+  "Sex": "M",
+  "Race": "White",
+  "DmDxDate": "10/05/2002",
+  "ComorbidityI": "Asthma",
+  "ComorbidityII": "COPD",
+  "InitialHbA1c": 7.8,
+  "FPG": 173,
+  "FPGResultDate": "10/06/2002",
+  "HbA1cAfter3Mths": 6.4,
+  "HbA1cAfter6Mths": 6.1,
+  "HCPDepartment": "3 NE",
+  "HCPName": "Michael Worthington",
+  "HCPContactPhone": "773-269-4953"
+ }
+
+ {
+  "PatientID": 69321,
+  "FirstName": "Christina",
+  "LastName": "Pineda",
+  "BirthDate": "11/27/1966",
+  "Sex": "F",
+  "Race": "Hispanic",
+  "DmDxDate": "12/09/2004",
+  "ComorbidityI": "AKI",
+  "ComorbidityII": "HTN",
+  "InitialHbA1c": 10.3,
+  "FPG": 219,
+  "FPGResultDate": "12/10/2004",
+  "HbA1cAfter3Mths": 8.7,
+  "HbA1cAfter6Mths": 7.8,
+  "HCPDepartment": "4 SW",
+  "HCPName": "Rodney Cortez",
+  "HCPContactPhone": "312-404-1894"
+ }
+
+ {
+  "PatientID": 18600,
+  "FirstName": "Xavier",
+  "LastName": "Wise",
+  "BirthDate": "08/17/1957",
+  "Sex": "M",
+  "Race": "Black",
+  "DmDxDate": "06/23/2017",
+  "ComorbidityI": "COPD",
+  "ComorbidityII": "CVD",
+  "InitialHbA1c": 8.8,
+  "FPG": 199,
+  "FPGResultDate": "06/24/2017",
+  "HbA1cAfter3Mths": 8.2,
+  "HbA1cAfter6Mths": 8.2,
+  "HCPDepartment": "5 SW",
+  "HCPName": "Miranda Lee-Patterson",
+  "HCPContactPhone": "972-314-2246"
+ }
+
+ {
+  "PatientID": 22054,
+  "FirstName": "Russell",
+  "LastName": "Teller",
+  "BirthDate": "06/13/1949",
+  "Sex": "M",
+  "Race": "Asian",
+  "DmDxDate": "09/17/2010",
+  "ComorbidityI": "Cancer",
+  "ComorbidityII": "Hyperlipidemia",
+  "InitialHbA1c": 9.7,
+  "FPG": 201,
+  "FPGResultDate": "09/18/2010",
+  "HbA1cAfter3Mths": 9.2,
+  "HbA1cAfter6Mths": 8.9,
+  "HCPDepartment": "5 SW",
+  "HCPName": "Miranda Lee-Patterson",
+  "HCPContactPhone": "972-314-2246"
+ }
+
+ {
+  "PatientID": 37863,
+  "FirstName": "Susan",
+  "LastName": "Miranda",
+  "BirthDate": "12/06/1921",
+  "Sex": "F",
+  "Race": "Hispanic",
+  "DmDxDate": "05/25/2019",
+  "ComorbidityI": "HTN",
+  "ComorbidityII": "Alzheimers",
+  "InitialHbA1c": 10.8,
+  "FPG": 233,
+  "FPGResultDate": "05/26/2019",
+  "HbA1cAfter3Mths": 10.2,
+  "HbA1cAfter6Mths": 10.1,
+  "HCPDepartment": "2 NE",
+  "HCPName": "Rebecca Reese",
+  "HCPContactPhone": "312-569-1024"
+ }
