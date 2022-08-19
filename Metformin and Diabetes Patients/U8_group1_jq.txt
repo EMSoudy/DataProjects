@@ -1,1 +1,0 @@
-jq -r '[.PatientID,.FirstName,.LastName,.Race,.InitialHbA1c,.FPG,.FPGResultDate,.HbA1cAfter3Mths,.HbA1cAfter6Mths] |@csv' u8_group1_json.txt >U8Group1.csv
