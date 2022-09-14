@@ -4,16 +4,19 @@ This project shows the statistical analysis through Rstudio of prothrombin time 
  
 This project includes:
   - Statistical analysis
-   - Hypothesis testing/confidence level
-   - Grubbs tests (outlier testing)
+     - Hypothesis testing/confidence level
+     - Grubbs tests (outlier testing)
   - Graphical analysis
-   - Plot Graphs and Boxplots
+     - Plot Graphs and Boxplots
  - PDF presentation
  
 Note:  
+  
   Prothrombin time - the amount of time it takes for blood to form a clot
-    - If clotting factor levels are too low, infant is at risk of dangerous blood clotting in arteries/veins
-    - If clotting factor levels are too high, infant is at risk of excessive bleeding
+   
+   - If clotting factor levels are too low, infant is at risk of dangerous blood clotting in arteries/veins
+   
+   - If clotting factor levels are too high, infant is at risk of excessive bleeding
     
 Hypothesis:
   Null hypthesis: There is no difference in the means of prothrombin time between full term and premature infants
