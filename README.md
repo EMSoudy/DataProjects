@@ -12,10 +12,10 @@ This project includes:
  
 Background:   
 
-  Prothrombin time - the amount of time it takes for blood to form a clot
+ -  Prothrombin time - the amount of time it takes for blood to form a clot
    
-   - If clotting factor levels are too low, infant is at risk of dangerous blood clotting in arteries/veins
-   - If clotting factor levels are too high, infant is at risk of excessive bleeding
+     - If clotting factor levels are too low, infant is at risk of dangerous blood clotting in arteries/veins
+     - If clotting factor levels are too high, infant is at risk of excessive bleeding
     
 Hypothesis:
 
