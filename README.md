@@ -10,7 +10,8 @@ This project includes:
      - Plot Graphs and Boxplots
  - PDF presentation
  
-Background:    
+Background:   
+
   Prothrombin time - the amount of time it takes for blood to form a clot
    
    - If clotting factor levels are too low, infant is at risk of dangerous blood clotting in arteries/veins
@@ -18,5 +19,6 @@ Background:
     
 Hypothesis:
 
-  Null hypthesis: There is no difference in the means of prothrombin time between full term and premature infants
-  Alternate hypthothesis: The means of prothrombin time between full term and premature infants significantly different.
+ - Null hypthesis: There is no difference in the means of prothrombin time between full term and premature infants
+  
+  - Alternate hypthothesis: The means of prothrombin time between full term and premature infants significantly different.
