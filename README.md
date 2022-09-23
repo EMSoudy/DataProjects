@@ -35,8 +35,11 @@ Statistical Analystis:
      -  Conclude that premature infants are more likely to have higher and abnormal PT than full term infants
 
 - Student's t-test / 10 Step Hypothosis
+
       - The Student's t-test is used to test the hypothesis that separate populations have equal means by using the p-value
+      
       - The 10 Step Hypothesis was the more prominent and detailed way to test the hypothesis by using the t-value
+      
      -  Both hypothesis tests conclude that the null hypothesis is rejected and the alternate hypothesis is accepted that there is a significant difference in the means of the two populations
 
 Conclusion 
