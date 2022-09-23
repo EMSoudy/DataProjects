@@ -9,6 +9,7 @@ This project includes:
   - Graphical analysis
      - Plot Graphs and Boxplots
  - PDF presentation
+ - Full presentation with notes
  
 Background:   
 
